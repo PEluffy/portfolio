@@ -1,0 +1,18 @@
+.gradient-text {
+  font-size: medium;
+}
+.new-element {
+  background-color: #22d3ee;
+  filter: blur(0.5px);
+}
+.icon {
+  width: 100%;
+  filter: invert(40%);
+  height: auto;
+  max-width: 24px; /* Adjust this value as needed */
+}
+
+.bg-own {
+  /* background: linear-gradient(90deg, #4776e6 0%, #8e54e9 100%); */
+  background-color: #0891b2;
+}
